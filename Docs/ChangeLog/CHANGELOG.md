@@ -32,3 +32,5 @@ A good change log sticks to these principles:
   *  People can see what changes they might expect in upcoming releases
   *  At release time, you just have to change "Unreleased" to the version number and add a new "Unreleased" header at the top.
 
+List of Files Revised
+
