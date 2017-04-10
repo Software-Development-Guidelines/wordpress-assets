@@ -11,7 +11,7 @@ Wordpress [Readme Templates](Readme/Readme.md) in .md and .txt format.
 
 Semantic Versioning Specification or [semver](docs/semver/semver.md) from [http://semver.org]
 
-[Contributing](docs/contribuiting/CONTRIBUITING.md)
+[Contributing](docs/contribuiting/CONTRIBUITING.md) from http://contributor-covenant.org/
 
 
 
