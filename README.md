@@ -7,7 +7,7 @@ Wordpress [Readme Templates](Readme/Readme.md) in .md and .txt format.
 
 #### Bibliography
 
-[Wordpres readme.txt](radme/readme.txt) https://wordpress.org/plugins/developers/#readme
+[Wordpres readme.txt](radme/readme.txt) https://wordpress.org/plugins/developers/#readme https://codex.wordpress.org/Version_4.7
 
 [Changelog](docs/changelog/CHANGELOG.md) from [http://keepachangelog.com/en/0.3.0/]
 
