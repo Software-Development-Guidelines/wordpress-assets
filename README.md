@@ -1,6 +1,8 @@
 # wordpress-assets
 Wordpress snipets code and tutorials and more information
 
+# General Wordpress
+
 ## Documentation
 
 ### Readme Template
@@ -17,7 +19,9 @@ Wordpress [Readme Templates](readme/README.md) in .md and .txt format.
 
 * [Contributing](readme/docs/contributing/CONTRIBUTING.md) from [contributor-covenant](http://contributor-covenant.org/ "contributor-covenant.org")
 
-## Theory
+# PressBooks
+[Pressboks Documentantion](http://docs.pressbooks.org/)
+# General Theory
 
 ### Contributions
 
