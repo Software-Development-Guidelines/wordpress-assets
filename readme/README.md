@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/colomet/wordpress-assets.svg?branch=dev)](https://travis-ci.org/colomet/wordpress-assets) [![Code Coverage](https://codecov.io/gh/colomet/wordpress-assets/branch/dev/graph/badge.svg)](https://codecov.io/gh/colomet/wordpress-assets) [![Current Release](https://img.shields.io/github/release/colomet/wordpress-assets.svg)](https://github.com/colomet/wordpress-assets/releases/latest/) [![Packagist](https://img.shields.io/packagist/v/colomet/wordpress-assets.svg)](https://packagist.org/packages/colomet/wordpress-assets)
+
+
 === Plugin Name ===
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link: http://example.com/
