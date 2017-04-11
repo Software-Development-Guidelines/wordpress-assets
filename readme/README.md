@@ -58,7 +58,10 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 
 ## Requirements
 
-Pressbooks works with PHP 5.6.X and WordPress 4.7.3. Lower versions are not supported.
+Plugin/Template Name works with: 
+* PHP 5.6.X
+* PressBooks 3.9.8.X
+Lower versions are not supported.
 
 ## Disclaimers
 
@@ -69,9 +72,13 @@ The Pressbooks plugin is supplied "as is" and all use is at your own risk.
 See readme.txt for installation details.
 
 ## Roadmap
-milestones
+(Information to users about the finish and next milestones.)
+ 
+* 0.2 Another change.
+* 0.1 Initial release.
 
 ## Changelog
+[Changelog guidelines](readme/docs/changelog/CHANGELOG.md)
 
 ### 1.0
 * A change since the previous version.
