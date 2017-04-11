@@ -5,7 +5,7 @@ Wordpress snipets code and tutorials and more information
 
 ### Readme Template
 
-Wordpress [Readme Templates](readme/Readme.md) in .md and .txt format.
+Wordpress [Readme Templates](readme/README.md) in .md and .txt format.
 
 #### Bibliography
 
@@ -17,7 +17,7 @@ Wordpress [Readme Templates](readme/Readme.md) in .md and .txt format.
 
 Semantic Versioning Specification or [semver](docs/semver/semver.md) from [http://semver.org]
 
-[Contributing](docs/contribuiting/CONTRIBUITING.md) from http://contributor-covenant.org/
+[Contributing](docs/contributing/CONTRIBUTING.md) from http://contributor-covenant.org/
 
 
 
