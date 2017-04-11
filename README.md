@@ -3,6 +3,9 @@ Wordpress snipets code and tutorials and more information.
 
 # General Wordpress
 
+## How to work
+Everything about the [philosophy](https://engineering.hmn.md/how-we-work/philosophy/), [processes](https://engineering.hmn.md/how-we-work/process/), and coding [style](https://engineering.hmn.md/how-we-work/style/) at [Human Made](https://engineering.hmn.md/).
+
 ## Documentation
 
 ### Comenting PHP
