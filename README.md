@@ -17,5 +17,10 @@ Wordpress [Readme Templates](readme/README.md) in .md and .txt format.
 
 * [Contributing](readme/docs/contributing/CONTRIBUTING.md) from [contributor-covenant](http://contributor-covenant.org/ "contributor-covenant.org")
 
+## Theory
+
+### Contributions
+
+https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution
 
 
