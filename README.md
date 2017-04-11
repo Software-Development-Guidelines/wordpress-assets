@@ -16,9 +16,14 @@ Everything about the [philosophy](https://engineering.hmn.md/how-we-work/philoso
 
 Wordpress [Readme Templates](readme/README.md) in .md and .txt format.
 
+#### Comenting md
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [GitHub](https://guides.github.com/).
+
+* [WordPress Markdown](https://daringfireball.net/projects/markdown/).
+
 #### Readme Bibliography
 
-* [Wordpres readme.txt](readme/readme.txt) from [wordpress](https://wordpress.org/plugins/developers/#readme "wordpress.org") and [smashingmagazine](https://www.smashingmagazine.com/2011/11/improve-wordpress-plugins-readme-txt/ "smashingmagazine.com").
+* [Wordpres readme.txt](readme/readme.txt) from [wordpress readme](https://wordpress.org/plugins/developers/#readme "wordpress.org"), [wordpress txt](https://developer.wordpress.org/plugins/wordpress-org/how-your-readme-txt-works/) and [smashingmagazine](https://www.smashingmagazine.com/2011/11/improve-wordpress-plugins-readme-txt/ "smashingmagazine.com").
 
 * [Changelog](readme/docs/changelog/CHANGELOG.md) from [keepachangelog 3.0](http://keepachangelog.com/en/0.3.0/ "keepachangelog.com/en/0.3.0") and [codex.wordpress](https://codex.wordpress.org/Version_4.7 "codex.wordpress.org").
 
