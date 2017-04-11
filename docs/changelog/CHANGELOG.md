@@ -1,8 +1,9 @@
-Changelog 0.3.0 [http://keepachangelog.com/en/0.3.0/]
-==============================
+Changelog
+==
+a version of [keepachangelog](http://keepachangelog.com/en/0.3.0/) under the wordpress standard
 
 Introduction
--------
+--
 
 
 A change log is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.
@@ -10,8 +11,7 @@ A change log is a file which contains a curated, chronologically ordered list of
 The point of a change log is to make it easier for users and contributors to see precisely what notable changes have been made between each release (or version) of the project.
 
 A good change log sticks to these principles:
--------
-
+--
  * It’s made for humans, not machines, so legibility is crucial.
  * Easy to link to any section (hence Markdown over plain text).
  * One sub-section per version.
