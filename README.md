@@ -5,6 +5,10 @@ Wordpress snipets code and tutorials and more information
 
 ## Documentation
 
+### Comenting PHP
+
+[PSR-5: PHPDoc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md) from [php-fig](http://www.php-fig.org/psr/)
+
 ### Readme Template
 
 Wordpress [Readme Templates](readme/README.md) in .md and .txt format.
