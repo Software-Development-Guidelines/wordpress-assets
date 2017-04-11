@@ -21,28 +21,19 @@ A good change log sticks to these principles:
  * Each version should:
    * List its release date in the above format.
    * Group changes to describe their impact on the project, as follows:
-   * **Added** for new features.
-   * **Changed** for changes in existing functionality.
-   * **Deprecated** for once-stable features removed in upcoming releases.
-   * **Removed** for deprecated features removed in this release.
-   * **Fixed** for any bug fixes.
-   * **Security** to invite users to upgrade in case of vulnerabilities.
-
- * Always have an "Unreleased" section at the top for keeping track of any changes. This serves two purposes:
+     * **FEATURE** for new features.
+     * **ENHANCED** for changes in existing functionality.
+     * **FIXED** for any bug fixes.
+     * **SECURITY** to invite users to upgrade in case of vulnerabilities.
+     * **REMOVED** for deprecated features removed in this release.
+     * **DEPRECATED** for once-stable features removed in upcoming releases.
+ * Always have an "UNRELEASED" section at the top for keeping track of any changes. This serves two purposes:
    *  People can see what changes they might expect in upcoming releases
    *  At release time, you just have to change "Unreleased" to the version number and add a new "Unreleased" header at the top.
-
-List of Files Revised
-
-
-
-
-
-===Wordpress Changelog===
-
-Version X.X.X
-
-Date
+ * Always inform about the "BREAKING CHANGES" for keeping track of any changes.
+ * List of Files Revised
+ 
+ For a more detailed information you can use the next wordpress changelog keywords afther FEATURE, ENHANCED, FIXED, SECURITY, REMOVED, DEPRECATED.
 
 * Highlights
   * New
