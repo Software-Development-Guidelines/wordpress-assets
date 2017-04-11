@@ -23,8 +23,9 @@ Wordpress [Readme Templates](readme/README.md) in .md and .txt format.
 * Pressbooks [Open Source project](https://pressbooks.org/)
 * Pressboks [Documentantion](http://docs.pressbooks.org/)
 * Pressbooks Code on [GitHub](http://github.com/pressbooks/pressbooks/)
+* Pressbooks guidelines for [Contributing](https://github.com/pressbooks/pressbooks/blob/dev/.github/CONTRIBUTING.md)
 
-##PB Plugins
+## PB Plugins
 [BCcampus](https://github.com/BCcampus)
 
 # General Theory
