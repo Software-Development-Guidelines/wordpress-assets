@@ -72,10 +72,10 @@ The Pressbooks plugin is supplied "as is" and all use is at your own risk.
 See readme.txt for installation details.
 
 ## Roadmap
-(Information to users about the finish and next milestones.)
+(Information to users about the next milestones. Once it is released, move the content to Upgrade Notice.)
  
-* 0.2 Another change.
-* 0.1 Initial release.
+* 2.0 Another change.
+* 1.2 Another change.
 
 ## Changelog
 [Changelog guidelines](readme/docs/changelog/CHANGELOG.md)
