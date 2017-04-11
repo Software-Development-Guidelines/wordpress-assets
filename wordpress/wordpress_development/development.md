@@ -1,8 +1,8 @@
 # PLUGIN DEVELOPMENT IN WORDPRESS
 
-(For beginners)
+(For beginners) adapted from [quora.com](https://www.quora.com/What-resources-do-you-recommend-for-learning-WordPress-development-looking-to-build-custom-themes-plugins-for-custom-websites/answer/Toni-Dev%C3%ADs).
 
-So you decided to become a WordPress plugin developer? What should you know about WordPress before starting? (https://managewp.com/14-surprisi... )
+So you decided to become a WordPress plugin developer? What should you know about WordPress before starting? [14-surprising-statistics-about-wordpress-usage](https://managewp.com/14-surprising-statistics-about-wordpress-usage).
 
 Using WordPress is easy from the user side and because it’s open source it’s also cheap or free. (Some basic plugins are free and some premium or a little more advanced are payable.)
 
@@ -14,15 +14,15 @@ Because a lot of people are using WordPress, a lot of developers are developing 
 
 This part may seem tricky at first, but actually it is quite easy. You are going to need a local server installation and a WordPress template.
 
-    If you don’t have anything in your mind already – you could try installing EasyPhp server (http://www.easyphp.org/) you have to download EasyPhp Development Server. If everything was configured properly then you could install WordPress through Modules/Recommended Modules section in the server’s home page. If you encounter any problem – Try to check this guide (http://quirm.net/2011/05/05/inst...)
-    Updating WordPress is crucial! Because some parts of WP can change and so can change the behavior of your plugin. It is not hard to do, as the process is automatic and all you have to do is to click Auto Update button in the Dashboard menu.
-    IDE – You can use PhpStorm as it provides nice WordPress integration if configured properly, but you can also try NetBeans
+* If you don’t have anything in your mind already – you could try installing EasyPhp server [easyphp.org](http://www.easyphp.org/) you have to download EasyPhp Development Server. If everything was configured properly then you could install WordPress through Modules/Recommended Modules section in the server’s home page. If you encounter any problem – Try to check this guide [quirm.net](http://quirm.net/2011/05/05/installing-wordpress-locally-using-easyphp/)
+* Updating WordPress is crucial! Because some parts of WP can change and so can change the behavior of your plugin. It is not hard to do, as the process is automatic and all you have to do is to click Auto Update button in the Dashboard menu.
+* IDE – You can use PhpStorm as it provides nice WordPress integration if configured properly, but you can also try NetBeans
 
 ## How to start
 
 For WordPress to recognize your file as a plugin you need to create a plugins template
 
-You can do it either by using a tool like (WordPress Plugin Boilerplate Generator | Ready to use WordPress Plugin Boilerplate) or by adding the required section manually at the beginning of your php file. You don’t need to end the php file with closing tags (?>), it is recommended that you don’t use closing tags (something to do with the WP parsing).
+You can do it either by using a tool like [WordPress Plugin Boilerplate Generator](http://wppb.me/) or by adding the required section manually at the beginning of your php file. You don’t need to end the php file with closing tags (?>), it is recommended that you don’t use closing tags (something to do with the WP parsing).
 
     */<?php
     /*
@@ -35,7 +35,7 @@ You can do it either by using a tool like (WordPress Plugin Boilerplate Generato
      * License: GPL2 (it’s usually GPL2 because of the WP open platform)
      */
 
-Your best friends while programing in WordPress are Codex https://codex.wordpress.org/ and WordPress Stack exchange http://wordpress.stackexchange.com/. There is also the official WordPress support forum, but responses there are quite slow, but you can maybe find an answer to your questions (https://wordpress.org/support/).
+Your best friends while programing in WordPress are [Codex](https://codex.wordpress.org/) and WordPress [Stack exchange](http://wordpress.stackexchange.com/). There is also the official WordPress [support forum](https://wordpress.org/support/), but responses there are quite slow, but you can maybe find an answer to your questions .
 
 WP uses hooks which are filters and actions to implement things to the WP pages. (http://codex.wordpress.org/Plugi...).
 
