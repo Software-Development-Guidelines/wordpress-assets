@@ -97,7 +97,7 @@ plugins where more information needs to be conveyed that doesn't fit into the ca
 
 ## Credits
 
-Here's a link to [Plugin Boilerplate](http://wppb.io/ Uses the WordPress Plugin Boilerplate)
+Here's a link to [Plugin Boilerplate](http://wppb.io/ "Uses the WordPress Plugin Boilerplate")
 
 Here's a link to [WordPress](http://wordpress.org/ "Your favorite software") 
 
