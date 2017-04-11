@@ -31,7 +31,7 @@ Highlights
   * The Finer Points
   * For Developers
 
-== Installation ==
+## Installation
 
 This section describes how to install the plugin and get it working.
 
@@ -56,6 +56,21 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 (or jpg, jpeg, gif).
 2. This is the second screen shot
 
+## Requirements
+
+Pressbooks works with PHP 5.6.X and WordPress 4.7.3. Lower versions are not supported.
+
+## Disclaimers
+
+The Pressbooks plugin is supplied "as is" and all use is at your own risk.
+
+## More Details
+
+See readme.txt for installation details.
+
+## Roadmap
+milestones
+
 ## Changelog
 
 ### 1.0
@@ -66,6 +81,7 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 * List versions from most recent at top to oldest at bottom.
 
 #### Upgrade Notice
+(The upgrade notice gives additional information to users who are about to upgrade. Although this doesn’t appear in the WordPress plugin directory it’s fed through to users on the WordPress Dashboard appearing both on wp-admin/update-core.php.)
 
 ### 1.0
 Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
@@ -79,10 +95,15 @@ You may provide arbitrary sections, in the same format as the ones above.  This 
 plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
 "installation."  Arbitrary sections will be shown below the built-in sections outlined above.
 
+## Credits
 
+Here's a link to [Plugin Boilerplate](http://wppb.io/ Uses the WordPress Plugin Boilerplate)
 
-Here's a link to [WordPress](http://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
-Titles are optional, naturally.
+Here's a link to [WordPress](http://wordpress.org/ "Your favorite software") 
+
+Here's a link to [PressBooks](https://pressbooks.org/get-involved/ "Your favorite ebook platform")
+
+and one to [Markdown's Syntax Documentation][markdown syntax].
 
 [markdown syntax]: http://daringfireball.net/projects/markdown/syntax
             "Markdown is what the parser uses to process much of the readme file"
