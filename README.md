@@ -20,7 +20,13 @@ Wordpress [Readme Templates](readme/README.md) in .md and .txt format.
 * [Contributing](readme/docs/contributing/CONTRIBUTING.md) from [contributor-covenant](http://contributor-covenant.org/ "contributor-covenant.org")
 
 # PressBooks
-[Pressboks Documentantion](http://docs.pressbooks.org/)
+* Pressbooks [Open Source project](https://pressbooks.org/)
+* Pressboks [Documentantion](http://docs.pressbooks.org/)
+* Pressbooks Code on [GitHub](http://github.com/pressbooks/pressbooks/)
+
+##PB Plugins
+[BCcampus](https://github.com/BCcampus)
+
 # General Theory
 
 ### Contributions
