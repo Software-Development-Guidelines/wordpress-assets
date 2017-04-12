@@ -11,7 +11,7 @@ Requires at least: ("Requires at least" is the lowest version that the plugin wi
 Tested up to: X.X ("Tested up to" is the highest version that you've *successfully used to test the plugin*. Note that it might work on
 higher versions... this is just the highest one you've verified.)
 
-Stable tag: [![Current Release](https://img.shields.io/github/release/colomet/wordpress-assets.svg)](https://github.com/colomet/wordpress-assets/releases/latest/) (Stable tag should indicate the Subversion "tag" of the latest stable version, or "trunk," if you use `/trunk/` for stable.)![Total Downloads](https://img.shields.io/wordpress/plugin/dt/easy-digital-downloads.svg?maxAge=2592000) ![Plugin Rating](https://img.shields.io/wordpress/plugin/r/easy-digital-downloads.svg?maxAge=2592000) ![WordPress Compatibility](https://img.shields.io/wordpress/v/easy-digital-downloads.svg?maxAge=2592000)[License](https://img.shields.io/badge/license-GPL--2.0%2B-red.svg)](https://github.com/colomet/wordpress-assets/blob/master/license.txt)
+Stable tag: [![Current Release](https://img.shields.io/github/release/colomet/wordpress-assets.svg)](https://github.com/colomet/wordpress-assets/releases/latest/) (Stable tag should indicate the Subversion "tag" of the latest stable version, or "trunk," if you use `/trunk/` for stable.)[License](https://img.shields.io/badge/license-GPL--2.0%2B-red.svg)](https://github.com/colomet/wordpress-assets/blob/master/license.txt)
 
 License: GPLv2 or later
 
