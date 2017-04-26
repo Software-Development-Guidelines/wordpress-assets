@@ -24,6 +24,12 @@ There is a plug-in for virtually anything you want to accomplish in WordPress. V
 The Homepage
 ![wppb.png](wordpress-assets/wordpress/assets/wppb.png)
 
+---
+
+![wppb-structure.png](wordpress-assets/wordpress/assets/wppb-structure.png)
+
+
+
 The WordPress Plugin Boilerplate Homepage
 
 First, the project has an official homepage for making the project more accessible to those who are just jumping into the foray of writing WordPress plugins.
