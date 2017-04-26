@@ -10,7 +10,7 @@ But if you’re looking to build a plugin that you’ll be maintaining over time
 
 Over the past year, I’ve written a number of WordPress plugins both for contract and for hobby. During that time, I began creating a boilerplate of code off of which I build most of my widgets.
 
-![wpwb.png](/assets/wpwb.png)
+![wpwb.png](assets/wpwb.png)
 
 The WordPress Widget Boilerplate features the following:
 
