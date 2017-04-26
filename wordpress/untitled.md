@@ -22,7 +22,7 @@ There is a plug-in for virtually anything you want to accomplish in WordPress. V
 
 ##The WordPress Plugin Boilerplate 3.0.0
 The Homepage
-[wppb.png](wordpress/assets/wppb.png)
+![wppb.png](wordpress/assets/wppb.png)
 
 The WordPress Plugin Boilerplate Homepage
 
