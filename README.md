@@ -12,6 +12,9 @@ Everything about the [philosophy](https://engineering.hmn.md/how-we-work/philoso
 How to [start a plugin](wordpress/wordpress_plugins.md)
 How to [publish on wordpress.org](wordpress/wordpress_plugins_publishing.md).
 
+How to [start a widget](wordpress/wordpress_widgets.md)
+
+
 
 ## Documentation
 
