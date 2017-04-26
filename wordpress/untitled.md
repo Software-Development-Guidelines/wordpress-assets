@@ -39,7 +39,7 @@ So what does this look like?
 
 The WordPress Plugin Boilerplate Directory Structure
 
-As you can see, the project itself includes its own '''README''' and '''ChangeLog''' and then the rest of the project is broken down into two directories:
+As you can see, the project itself includes its own `<README>` '''README''' and '''ChangeLog''' and then the rest of the project is broken down into two directories:
 
     assets
     trunk
