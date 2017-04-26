@@ -20,7 +20,7 @@ The vast majority of plug-ins are free and therefore it is important to understa
 
 There is a plug-in for virtually anything you want to accomplish in WordPress. Visit your dashboard and look for the menu item “plug ins” to find or search for the plug ins you want.  If you want to monitor your visitor statistics, increase interaction with your visitors, add a photo gallery, automatically back up your database or anything else you have a desire to do with your site, you can most likely find a plug-in to use, and like we said, most of them are free
 
-##The WordPress Plugin Boilerplate 3.0.0
+##The WordPress [Plugin Boilerplate 3.0.0](https://tommcfarlin.com/wordpress-plugin-boilerplate-3/)
 ###The Homepage
 
 ![wppb.png](assets/wppb.png)
@@ -46,23 +46,24 @@ As you can see, the project itself includes its own `README` and `ChangeLog` and
 
 For anyone who as submitted a plugin to the WordPress plugin repository, then you’re familiar with the standard Subversion directory structure. The Boilerplate now mimics that.
 
-The assets directory contains placeholders for plugin headers, plugin icons (which are a new addition coming in WordPress 4.0), and a screenshot that corresponds to the contents of the plugin’s readme.txt.
+The `assets` directory contains placeholders for plugin headers, plugin icons (which are a [new addition](http://make.wordpress.org/core/2014/08/21/introducing-plugin-icons-in-the-plugin-installer/) coming in WordPress 4.0), and a screenshot that corresponds to the contents of the plugin’s `readme.txt`.
 
-The trunk contains the actual Boilerplate source code. This is a functioning plugin that can be installed and run within WordPress all of which I talk more about momentarily.
+The `trunk` contains the actual Boilerplate source code. This is a functioning plugin that can be installed and run within WordPress all of which I talk more about momentarily.
 
-The directory structure of trunk has changed a bit since this previous version of the Boilerplate. Ultimately, the goal was to create better file organization, a better class architecture, and generally a more organized approach to working with plugins.
+The directory structure of `trunk` has changed a bit since this previous version of the Boilerplate. Ultimately, the goal was to create better file organization, a better class architecture, and generally a more organized approach to working with plugins.
 
-    admin is used for all dashboard-specific functionality
-    includes is used for all shared functionality either as part of the core of the plugin or for a third-party library
-    languages are where the i18n files are kept
-    public is where all public-facing functionality is kept
+* `admin` is used for all dashboard-specific functionality
+* `includes` is used for all shared functionality either as part of the core of the plugin or for a third-party library
+* `languages` are where the i18n files are kept
+* `public` is where all public-facing functionality is kept
 
 Naturally, there are subdirectories to each of these directories, as well; however, rather than spend time going through each and every file, you can read the comments contained in each one to get an idea as to how they all work together.
 
-This means that the Boilerplate no longer uses the TODO placeholders. Instead, the comment blocks explain exactly what’s going on and are left for you to change the content during implementation of your work.
-The Loader
+This means that the Boilerplate no longer uses the `TODO` placeholders. Instead, the comment blocks explain exactly what’s going on and are left for you to change the content during implementation of your work.
 
-There are a number of classes that are located in the includes directory such as the activator, deactivator, and more. But the newest addition to the project is The Loader (in context of the Boilerplate, this class is called Plugin_Name_Loader.)
+###The Loader
+
+There are a number of classes that are located in the `includes` directory such as the activator, deactivator, and more. But the newest addition to the project is The Loader (in context of the Boilerplate, this class is called `Plugin_Name_Loader`.)
 
 The goal of this file is to encapsulate the registration of hooks and then execute both actions and filters at the appropriate time when the plugin is loaded.
 
@@ -71,7 +72,8 @@ Based on the feedback I’ve gotten, this particular class is the one thing that
 Such is the nature of programming.
 
 Regardless, this helps to easily manage hooks throughout the plugin as you’re working on your code, and you can trust that everything will be registered with WordPress just as you would expect.
-Up To Standards
+
+###Up To Standards
 
 One of the things that I think we should all be doing is adhering to the WordPress Coding Standards and the Inline Documentation Standards. To that end, the Boilerplate has come done the best possible job at attempting to adhere to both of those.
 
