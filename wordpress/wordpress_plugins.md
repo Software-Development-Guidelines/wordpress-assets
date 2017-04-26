@@ -39,10 +39,10 @@ So what does this look like?
 
 The WordPress Plugin Boilerplate Directory Structure
 
-As you can see, the project itself includes its own `<README>` '''README''' and '''ChangeLog''' and then the rest of the project is broken down into two directories:
+As you can see, the project itself includes its own `README` and `ChangeLog` and then the rest of the project is broken down into two directories:
 
-    assets
-    trunk
+1. `assets`
+1. `trunk`
 
 For anyone who as submitted a plugin to the WordPress plugin repository, then you’re familiar with the standard Subversion directory structure. The Boilerplate now mimics that.
 

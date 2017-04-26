@@ -9,8 +9,9 @@ How to start [Beginners guide](wordpress/wordpress_development/development.md).
 
 Everything about the [philosophy](https://engineering.hmn.md/how-we-work/philosophy/), [processes](https://engineering.hmn.md/how-we-work/process/), and coding [style](https://engineering.hmn.md/how-we-work/style/) at [Human Made](https://engineering.hmn.md/).
 
-How to [publish on wordpress.org](wordpress/wordpress_publishing_plugins.md).
 How to [start a plugin](wordpress/wordpress_plugins.md)
+How to [publish on wordpress.org](wordpress/wordpress_plugins_publishing.md).
+
 
 ## Documentation
 
