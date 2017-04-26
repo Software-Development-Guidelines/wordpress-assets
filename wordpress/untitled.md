@@ -21,27 +21,25 @@ The vast majority of plug-ins are free and therefore it is important to understa
 There is a plug-in for virtually anything you want to accomplish in WordPress. Visit your dashboard and look for the menu item “plug ins” to find or search for the plug ins you want.  If you want to monitor your visitor statistics, increase interaction with your visitors, add a photo gallery, automatically back up your database or anything else you have a desire to do with your site, you can most likely find a plug-in to use, and like we said, most of them are free
 
 ##The WordPress Plugin Boilerplate 3.0.0
-The Homepage
+###The Homepage
+
 ![wppb.png](assets/wppb.png)
-
----
-
-![wppb-structure.png](assets/wppb-structure.png)
-
-
 
 The WordPress Plugin Boilerplate Homepage
 
-First, the project has an official homepage for making the project more accessible to those who are just jumping into the foray of writing WordPress plugins.
-A Total Rewrite
+First, the project has an [official homepage](http://wppb.io/) for making the project more accessible to those who are just jumping into the foray of writing WordPress plugins.
+
+###A Total Rewrite
 
 As mentioned throughout several previous blog posts, the Boilerplate underwent a complete rewrite. This means the project started at ground zero and was built upwards from there.
 
 So what does this look like?
 
+![wppb-structure.png](assets/wppb-structure.png)
+
 The WordPress Plugin Boilerplate Directory Structure
 
-As you can see, the project itself includes its own README and ChangeLog and then the rest of the project is broken down into two directories:
+As you can see, the project itself includes its own '''README''' and '''ChangeLog''' and then the rest of the project is broken down into two directories:
 
     assets
     trunk
