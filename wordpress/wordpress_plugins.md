@@ -82,8 +82,6 @@ If you find something that needs changing or think something needs to be removed
 
 Ultimately, the point is to get more people using the standards as defined in the Codex to write more WordPress-specific and maintainable code.
 
- 
 
- 
 
-http://wppb.me/
+[http://wppb.me/](http://wppb.me/)
