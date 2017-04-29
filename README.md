@@ -28,8 +28,8 @@ Wordpress [Readme Templates](readme/README.md) in .md and .txt format.
 
 #### Comenting md
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [GitHub](https://guides.github.com/).
-
 * [WordPress Markdown](https://daringfireball.net/projects/markdown/).
+* [Markdown Editor](https://stackedit.io/editor)
 
 #### Readme Bibliography
 
