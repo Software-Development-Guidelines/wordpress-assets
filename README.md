@@ -14,7 +14,7 @@ How to [publish on wordpress.org](wordpress/wordpress_plugins_publishing.md).
 
 How to [start a widget](wordpress/wordpress_widgets.md)
 
-
+http://mediatemple.net/resources/web-hosting-101/developing-wordpress-for-the-future/
 
 ## Documentation
 
