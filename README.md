@@ -12,6 +12,8 @@ Everything about the [philosophy](https://engineering.hmn.md/how-we-work/philoso
 How to [start a plugin](wordpress/wordpress_plugins.md)
 How to [publish on wordpress.org](wordpress/wordpress_plugins_publishing.md).
 
+Wordpress at [Stackoverflow](http://stackoverflow.com/documentation/wordpress)
+
 How to [start a widget](wordpress/wordpress_widgets.md)
 
 http://mediatemple.net/resources/web-hosting-101/developing-wordpress-for-the-future/
