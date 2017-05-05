@@ -18,6 +18,8 @@ How to [start a widget](wordpress/wordpress_widgets.md)
 
 http://mediatemple.net/resources/web-hosting-101/developing-wordpress-for-the-future/
 
+[Tutorials](wordpress/wordpress_tutorials.md)
+
 ## Documentation
 
 ### Comenting PHP
@@ -58,5 +60,6 @@ Wordpress [Readme Templates](readme/README.md) in .md and .txt format.
 ### Contributions
 
 https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution.
+
 
 
