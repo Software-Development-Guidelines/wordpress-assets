@@ -24,6 +24,10 @@ https://docs.woocommerce.com/document/create-a-plugin/
 
 https://codeable.io/how-to-extend-a-wordpress-plugin-my-plugin-boilerplate/ --- https://gist.github.com/LiamBailey/c2ad8a8a1d805f7a2b9d#file-wordpress-plugin-boilerplate-php
 
+https://github.com/washingtonstateuniversity
+
+http://wpcandy.com/teaches/how-to-create-a-functionality-plugin/#.WRyEuMklGRt
+
 https://github.com/BoilWP
 
 
