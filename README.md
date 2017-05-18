@@ -18,6 +18,10 @@ How to [start a widget](wordpress/wordpress_widgets.md)
 
 http://mediatemple.net/resources/web-hosting-101/developing-wordpress-for-the-future/
 
+https://docs.woocommerce.com/document/create-a-plugin/
+
+https://neliosoftware.com/blog/create-better-plugins-with-the-plugin-boilerplate/
+
 [Tutorials](wordpress/wordpress_tutorials.md)
 
 https://carlalexander.ca/organizing-files-object-oriented-wordpress-plugin/
@@ -26,7 +30,17 @@ https://tommcfarlin.com/organizing-wordpress-theme-functions/
 
 https://www.codeinwp.com/blog/the-wordpress-plugin-boilerplate-101/
 
+https://codeable.io/how-to-extend-a-wordpress-plugin-my-plugin-boilerplate/ --- https://gist.github.com/LiamBailey/c2ad8a8a1d805f7a2b9d#file-wordpress-plugin-boilerplate-php
+
+https://github.com/washingtonstateuniversity
+
+http://wpcandy.com/teaches/how-to-create-a-functionality-plugin/#.WRyEuMklGRt
+
+https://github.com/BoilWP
+
+
 ## Documentation
+https://tools.ietf.org/rfcdiff
 
 ### Comenting PHP
 
@@ -66,6 +80,10 @@ Wordpress [Readme Templates](readme/README.md) in .md and .txt format.
 ### Contributions
 
 https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution.
+
+
+### Projects
+http://readyset.tigris.org/nonav/templates/index.html
 
 
 
