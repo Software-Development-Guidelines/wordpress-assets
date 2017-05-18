@@ -24,6 +24,12 @@ https://neliosoftware.com/blog/create-better-plugins-with-the-plugin-boilerplate
 
 [Tutorials](wordpress/wordpress_tutorials.md)
 
+https://carlalexander.ca/organizing-files-object-oriented-wordpress-plugin/
+
+https://tommcfarlin.com/organizing-wordpress-theme-functions/
+
+https://www.codeinwp.com/blog/the-wordpress-plugin-boilerplate-101/
+
 https://codeable.io/how-to-extend-a-wordpress-plugin-my-plugin-boilerplate/ --- https://gist.github.com/LiamBailey/c2ad8a8a1d805f7a2b9d#file-wordpress-plugin-boilerplate-php
 
 https://github.com/washingtonstateuniversity
