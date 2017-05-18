@@ -20,6 +20,8 @@ http://mediatemple.net/resources/web-hosting-101/developing-wordpress-for-the-fu
 
 https://docs.woocommerce.com/document/create-a-plugin/
 
+https://neliosoftware.com/blog/create-better-plugins-with-the-plugin-boilerplate/
+
 [Tutorials](wordpress/wordpress_tutorials.md)
 
 https://codeable.io/how-to-extend-a-wordpress-plugin-my-plugin-boilerplate/ --- https://gist.github.com/LiamBailey/c2ad8a8a1d805f7a2b9d#file-wordpress-plugin-boilerplate-php
