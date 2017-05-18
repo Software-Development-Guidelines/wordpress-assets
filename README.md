@@ -20,6 +20,12 @@ http://mediatemple.net/resources/web-hosting-101/developing-wordpress-for-the-fu
 
 [Tutorials](wordpress/wordpress_tutorials.md)
 
+https://carlalexander.ca/organizing-files-object-oriented-wordpress-plugin/
+
+https://tommcfarlin.com/organizing-wordpress-theme-functions/
+
+https://www.codeinwp.com/blog/the-wordpress-plugin-boilerplate-101/
+
 ## Documentation
 
 ### Comenting PHP
