@@ -87,3 +87,8 @@ http://readyset.tigris.org/nonav/templates/index.html
 
 
 
+Downloads: plugins
+
+https://github.com/washingtonstateuniversity/WSUWP-TOC-Generator   ---  http://projects.jga.me/toc/
+
+
