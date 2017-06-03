@@ -7,6 +7,12 @@ Wordpress snipets code and tutorials and more information.
 
 How to start [Beginners guide](wordpress/wordpress_development/development.md).
 
+https://10up.github.io/Engineering-Best-Practices/
+
+https://www.scalewp.io/
+
+https://vip.wordpress.com/documentation/vip/best-practices/
+
 Everything about the [philosophy](https://engineering.hmn.md/how-we-work/philosophy/), [processes](https://engineering.hmn.md/how-we-work/process/), and coding [style](https://engineering.hmn.md/how-we-work/style/) at [Human Made](https://engineering.hmn.md/).
 
 How to [start a plugin](wordpress/wordpress_plugins.md)
