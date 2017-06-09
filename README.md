@@ -5,6 +5,8 @@ Wordpress snipets code and tutorials and more information.
 
 ## How to work
 
+https://www.smashingmagazine.com/2012/01/create-custom-taxonomies-wordpress/
+
 How to start [Beginners guide](wordpress/wordpress_development/development.md).
 
 https://10up.github.io/Engineering-Best-Practices/
