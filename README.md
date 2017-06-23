@@ -13,6 +13,9 @@ https://wordpress.stackexchange.com/questions/4852/post-meta-vs-separate-databas
 https://premium.wpmudev.org/blog/creating-database-tables-for-plugins/?imob=b&utm_expid=3606929-106.UePdqd0XSL687behGg-9FA.1&utm_referrer=https%3A%2F%2Fwww.google.es%2F
 
 
+http://www.danielauener.com/wordpress-post-to-post-relationships-without-altering-the-database/
+
+
 https://www.smashingmagazine.com/2012/01/create-custom-taxonomies-wordpress/
 
 https://code.tutsplus.com/tutorials/a-guide-to-wordpress-custom-post-types-creation-display-and-meta-boxes--wp-27645
