@@ -6,6 +6,12 @@ Wordpress snipets code and tutorials and more information.
 ## How to work
 https://pippinsplugins.com/series/building-a-database-abstraction-layer/
 
+https://wordpress.stackexchange.com/questions/88505/custom-post-type-or-custom-tables
+
+https://wordpress.stackexchange.com/questions/4852/post-meta-vs-separate-database-tables
+
+https://premium.wpmudev.org/blog/creating-database-tables-for-plugins/?imob=b&utm_expid=3606929-106.UePdqd0XSL687behGg-9FA.1&utm_referrer=https%3A%2F%2Fwww.google.es%2F
+
 
 https://www.smashingmagazine.com/2012/01/create-custom-taxonomies-wordpress/
 
