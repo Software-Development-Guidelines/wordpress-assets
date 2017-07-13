@@ -2,6 +2,11 @@
 Wordpress snipets code and tutorials and more information.
 
 # General Wordpress
+Composer
+
+https://roots.io/using-composer-with-wordpress/
+
+https://deliciousbrains.com/using-composer-manage-wordpress-themes-plugins/
 
 https://roots.io/twelve-factor-wordpress/
 
