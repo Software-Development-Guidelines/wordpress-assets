@@ -3,6 +3,8 @@ Wordpress snipets code and tutorials and more information.
 
 # General Wordpress
 
+https://roots.io/twelve-factor-wordpress/
+
 ## How to work
 https://pippinsplugins.com/series/building-a-database-abstraction-layer/
 
