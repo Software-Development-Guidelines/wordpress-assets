@@ -11,6 +11,11 @@ https://deliciousbrains.com/using-composer-manage-wordpress-themes-plugins/
 https://roots.io/twelve-factor-wordpress/
 
 ## How to work
+
+https://code.tutsplus.com/series/creating-maintainable-wordpress-meta-boxes--cms-661
+
+https://code.tutsplus.com/tutorials/creating-maintainable-wordpress-meta-boxes-the-layout--cms-22208
+
 https://pippinsplugins.com/series/building-a-database-abstraction-layer/
 
 https://wordpress.stackexchange.com/questions/88505/custom-post-type-or-custom-tables
