@@ -1,6 +1,11 @@
 # wordpress-assets
 Wordpress snipets code and tutorials and more information.
 
+
+Documentation:
+
+https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/php/
+
 # General Wordpress
 Composer
 
