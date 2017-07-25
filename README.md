@@ -37,6 +37,14 @@ https://www.smashingmagazine.com/2012/01/create-custom-taxonomies-wordpress/
 
 https://code.tutsplus.com/tutorials/a-guide-to-wordpress-custom-post-types-creation-display-and-meta-boxes--wp-27645
 
+
+
+
+
+
+
+https://local.getflywheel.com/
+
 How to start [Beginners guide](wordpress/wordpress_development/development.md).
 
 https://10up.github.io/Engineering-Best-Practices/
