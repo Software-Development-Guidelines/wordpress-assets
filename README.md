@@ -37,6 +37,10 @@ https://www.smashingmagazine.com/2012/01/create-custom-taxonomies-wordpress/
 
 https://code.tutsplus.com/tutorials/a-guide-to-wordpress-custom-post-types-creation-display-and-meta-boxes--wp-27645
 
+https://pippinsplugins.com/lets-talk-extensible-code/
+
+https://pippinsplugins.com/how-i-built-settings-system-easy-digital-downloads/
+
 
 
 
