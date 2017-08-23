@@ -142,3 +142,89 @@ Downloads: plugins
 https://github.com/washingtonstateuniversity/WSUWP-TOC-Generator   ---  http://projects.jga.me/toc/
 
 
+
+# Editting .htaccess files
+## Changes in Wordpress main folder
+# END WordPress
+# Protection https://premium.wpmudev.org/blog/htaccess
+# http://www.wpexplorer.com/htaccess-wordpress-security/
+
+
+# Protecting Important Files
+<FilesMatch "^.*(error_log|wp-config\.php|php.ini|\.[hH][tT][aApP].*)$">
+Order deny,allow
+Deny from all
+</FilesMatch>
+
+# Prevent Directory Browsing
+Options All -Indexes
+
+# Restrict Access to PHP Files
+RewriteCond %{REQUEST_URI} !^/wp-content/plugins/file/to/exclude\.php
+RewriteCond %{REQUEST_URI} !^/wp-content/plugins/directory/to/exclude/
+RewriteRule wp-content/plugins/(.*\.php)$ - [R=404,L]
+RewriteCond %{REQUEST_URI} !^/wp-content/themes/file/to/exclude\.php
+RewriteCond %{REQUEST_URI} !^/wp-content/themes/directory/to/exclude/
+RewriteRule wp-content/themes/(.*\.php)$ - [R=404,L]
+
+
+# Protect Your Site Against Script Injections
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{QUERY_STRING} (<|%3C).*script.*(>|%3E) [NC,OR]
+RewriteCond %{QUERY_STRING} GLOBALS(=|[|%[0-9A-Z]{0,2}) [OR]
+RewriteCond %{QUERY_STRING} _REQUEST(=|[|%[0-9A-Z]{0,2})
+RewriteRule ^(.*)$ index.php [F,L]
+
+
+# Securing the wp-includes Directory
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^wp-admin/includes/ - [F,L]
+RewriteRule !^wp-includes/ - [S=3]
+RewriteRule ^wp-includes/[^/]+\.php$ - [F,L]
+RewriteRule ^wp-includes/js/tinymce/langs/.+\.php - [F,L]
+RewriteRule ^wp-includes/theme-compat/ - [F,L]
+</IfModule>
+
+
+# Prevent Username Enumeration
+RewriteCond %{QUERY_STRING} author=d
+RewriteRule ^ /? [L,R=301]
+
+
+# Require SSL
+# SSLOptions +StrictRequire
+# SSLRequireSSL
+# SSLRequire %{HTTP_HOST} eq "www.you-site.com"
+# ErrorDocument 403 https://www.your-site.com
+
+
+# Block WordPress xmlrpc.php requests
+# This file allows third-party apps to connect to your WordPress site. if you are not using any third party apps should disable this feature.
+<Files xmlrpc.php>
+order deny,allow
+deny from all
+</Files>
+
+## Changes in wp-content folder
+# Disable access to all file types except the following
+Order deny,allow
+Deny from all
+<Files ~ ".(xml|css|js|jpe?g|png|gif|pdf|docx|rtf|odf|zip|rar)$">
+Allow from all
+</Files>
+
+## Changes in uploads folder
+# Restrict PHP File Execution
+<Directory "/var/www/wp-content/uploads/">
+<Files "*.php">
+Order Deny,Allow
+Deny from All
+</Files>
+</Directory>
+
+
+
+
