@@ -228,3 +228,15 @@ Deny from All
 
 
 http://www.wpuniversity.com/lesson/wordpress-front-end-vs-back-end
+
+
+
+
+
+# How to clean the database:
+
+Several plugins can help for cleaning the database (Remember to have a backup of the installation before to start)
+
+## Why WP-Sweep and not WP-Optimize?
+
+You may be wondering why are we writing using WP-Sweep when there is a very popular WP-Optimize plugin available that does nearly the same thing. Because the main distinguishing characteristic of WP-Sweep is that it uses proper WordPress delete functions as much as possible instead of running direct delete MySQL queries. Whereas the WP-Optimize plugin uses direct delete SQL queries which can leave orphaned data left behind.
